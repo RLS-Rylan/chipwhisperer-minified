@@ -28,3 +28,5 @@
 [submodule "hardware/victims/cw305_artixtarget/fw/sam3u/CW305_SAM3U_FW/src/naeusb"]
 	path = hardware/victims/cw305_artixtarget/fw/sam3u/CW305_SAM3U_FW/src/naeusb
 	url = https://github.com/newaetech/naeusb
+[submodule "jupyter"]
+	url = https://github.com/RLS-Rylan/chipwhisperer-jupyter-minimal.git
